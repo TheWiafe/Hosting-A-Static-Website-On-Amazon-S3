@@ -23,9 +23,9 @@ For a detailed step-by-step procedure to host a static website on Amazon S3, kin
 Users can contribute to the project by reporting issues, submitting bug fixes, or adding new features. To contribute:
 
 Fork the repository
-1. Create a new branch ('git checkout -b feature/your-feature')
-2. Commit your changes ('git commit -am 'Add some feature')
-3. Push to the branch (git push origin feature/your-feature)
+1. Create a new branch (`git checkout -b feature/your-feature`)
+2. Commit your changes (`git commit -am 'Add some feature`)
+3. Push to the branch (`git push origin feature/your-feature`)
 4. Create a new Pull Request
 
 ## Contact
